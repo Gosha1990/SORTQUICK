@@ -1,0 +1,15 @@
+E:\GeekBrains\SortQuick\quick\obj\Debug\net7.0\quick.csproj.AssemblyReference.cache
+E:\GeekBrains\SortQuick\quick\obj\Debug\net7.0\quick.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\SortQuick\quick\obj\Debug\net7.0\quick.AssemblyInfoInputs.cache
+E:\GeekBrains\SortQuick\quick\obj\Debug\net7.0\quick.AssemblyInfo.cs
+E:\GeekBrains\SortQuick\quick\obj\Debug\net7.0\quick.csproj.CoreCompileInputs.cache
+E:\GeekBrains\SortQuick\quick\bin\Debug\net7.0\quick.exe
+E:\GeekBrains\SortQuick\quick\bin\Debug\net7.0\quick.deps.json
+E:\GeekBrains\SortQuick\quick\bin\Debug\net7.0\quick.runtimeconfig.json
+E:\GeekBrains\SortQuick\quick\bin\Debug\net7.0\quick.dll
+E:\GeekBrains\SortQuick\quick\bin\Debug\net7.0\quick.pdb
+E:\GeekBrains\SortQuick\quick\obj\Debug\net7.0\quick.dll
+E:\GeekBrains\SortQuick\quick\obj\Debug\net7.0\refint\quick.dll
+E:\GeekBrains\SortQuick\quick\obj\Debug\net7.0\quick.pdb
+E:\GeekBrains\SortQuick\quick\obj\Debug\net7.0\quick.genruntimeconfig.cache
+E:\GeekBrains\SortQuick\quick\obj\Debug\net7.0\ref\quick.dll
